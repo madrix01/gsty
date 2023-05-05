@@ -1,5 +1,7 @@
 # gsty
 
+> Get a gist of it. 
+
 A shell script to use github gists as markdown note taking application from CLI.
 
 ## Requirements
