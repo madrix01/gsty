@@ -1,4 +1,4 @@
 #!/bin/sh
 #
 #
-alacritty --hold -e $HOME/dev/gisty/gisty.sh
+alacritty --hold -e $HOME/dev/gsty/gsty.sh
